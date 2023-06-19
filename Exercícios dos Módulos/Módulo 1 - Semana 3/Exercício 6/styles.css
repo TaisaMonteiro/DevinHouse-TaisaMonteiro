@@ -3,7 +3,24 @@ html {
   font-size: 16px;
 }
 
-html, body, div, header, footer, main, p, span, h1, h2, h3, h4, h5, h6, a, form, ul, ol,
+html,
+body,
+div,
+header,
+footer,
+main,
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+form,
+ul,
+ol,
 li {
   margin: 0;
   border: 0;
